@@ -1,0 +1,1 @@
+Git is used to track changes in files, maintain project versions, collaborate with team members, and upload projects to GitHub
