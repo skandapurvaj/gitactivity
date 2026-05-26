@@ -1,0 +1,11 @@
+# Uses of Git
+
+[Git Official Website](https://git-scm.com?utm_source=chatgpt.com)
+
+* Git is a version control system used to track code changes.
+* It helps manage different versions of a project.
+* Git stores project history and backups.
+* It allows multiple developers to work together.
+* Git helps restore previous code if errors occur.
+* It is used to upload and manage projects on [GitHub](https://github.com?utm_source=chatgpt.com).
+* Common commands are add, commit, push, and pull.
